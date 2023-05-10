@@ -8,10 +8,10 @@
 <div align="center">
   <br>
   <a href="#">
-    <img height="190rem" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=yakami129&show_icons=true&theme=vue-dark&bg_color=0d1117&hide_border=true"/>
+    <img height="190rem" alt="GitHub Stats" src="https://readmestats.999857.xyz/api?username=yakami129&show_icons=true&theme=vue-dark&bg_color=0d1117&hide_border=true"/>
   </a>
   <a href="#">
-    <img height="190rem" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yakami129&langs_count=6&layout=compact&theme=vue-dark&bg_color=0d1117&hide_border=true"/>
+    <img height="190rem" alt="Most Used Languages" src="https://readmestats.999857.xyz/api/top-langs/?username=yakami129&langs_count=6&layout=compact&theme=vue-dark&bg_color=0d1117&hide_border=true"/>
   </a>
 </div> 
 
